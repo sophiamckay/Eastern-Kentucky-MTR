@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../geo409-mod-08-sophiamckay"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Eastern-Kentucky-MTR"
+	}
+}
