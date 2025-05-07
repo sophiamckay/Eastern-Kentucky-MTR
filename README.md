@@ -5,9 +5,9 @@
   <meta charset="utf-8" />
   <title>Mountaintop removal mining sites in eastern Kentucky</title>
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap" rel="stylesheet" />
   <style>
     /* Set margin/padding to fit border in box model */
     * {
@@ -20,10 +20,10 @@
     body {
       margin: 0;
       padding: 0;
-      font-family: "Playfair Display", sans-serif;
+      font-family: "Open Sans", sans-serif;
       font-weight: 400;
-      color: rgb(107, 78, 68);
-      background-color: rgb(198, 231, 215);
+      color: rgb(32, 32, 32);
+      background-color: rgb(236, 232, 228);
     }
 
     /* Define styles for the headings */
@@ -168,7 +168,7 @@
         <p>
           Visualizations created from lidar data provided by
           <a href="https://kyfromabove.ky.gov/">KyFromAbove</a> in ArcGIS Pro and
-          Blender. 
+          Blender.
         </p>
 
         <p>
@@ -195,3 +195,4 @@
 </body>
 
 </html>
+
